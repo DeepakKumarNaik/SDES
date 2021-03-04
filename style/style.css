@@ -1,0 +1,46 @@
+#header_h1{
+	text-align:center;
+	background-color:rgba(0,0,255);
+	color:rgba(255,255,255,1);
+}
+
+#header_table{
+width:100%;
+border: 2px solid rgba(255,0,0,1);
+}	
+
+#header_table_tr_td_sql{
+float:left;	
+background-color:rgba(0,0,0,1);
+border:2px solid rgba(0,255,0,1);
+width:48%;
+text-align:center;
+}
+
+#header_table_tr_td_sql_a{
+text-decoration:none;	
+color:rgba(255,255,255,1);
+}
+	
+#header_table_tr_td_view{
+float:right;	
+background-color:rgba(0,0,0,1);
+border:2px solid rgba(0,255,0,1);
+width:48%;
+text-align:center;
+}
+
+#header_table_tr_td_view_a{
+	text-decoration:none;
+	color:rgba(255,255,255,1);
+}
+
+#header_h1_a{
+	text-decoration:none;
+	color:rgba(255,255,255,1);
+}
+
+#footer_h2{
+	color:rgba(0,255,0,1);
+	background-color:rgba(0,0,0,1);
+}
